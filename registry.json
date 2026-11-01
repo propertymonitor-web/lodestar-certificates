@@ -5,5 +5,12 @@
   "date": "2026-11-01",
   "file": "certs/LS-20261101-7B7A43B7.pdf",
   "sha256": "2b7628dadb6c00c8e6f282273df52493ee26258a176a7d4d3bc28ef41c9d1cea"
+ },
+ {
+  "id": "LS-20261101-C252D9B1",
+  "callsign": "C252D9B1",
+  "date": "2026-11-01",
+  "file": "certs/LS-20261101-C252D9B1.pdf",
+  "sha256": "bfa96efed0dceb7347b678fc041cdacc28c294a56e01b62fd4edf148aeb72c78"
  }
 ]
