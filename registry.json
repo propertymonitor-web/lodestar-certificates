@@ -12,5 +12,12 @@
   "date": "2026-11-01",
   "file": "certs/LS-20261101-C252D9B1.pdf",
   "sha256": "bfa96efed0dceb7347b678fc041cdacc28c294a56e01b62fd4edf148aeb72c78"
+ },
+ {
+  "id": "LS-20261102-DA2594C8",
+  "callsign": "DA2594C8",
+  "date": "2026-11-02",
+  "file": "certs/LS-20261102-DA2594C8.pdf",
+  "sha256": "b22db071b402ea0f4777924f2ce999ff17dce64d78d0fc73c8c950e13030681f"
  }
 ]
